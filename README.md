@@ -1,6 +1,6 @@
 # Decanus to Legatus: Synthetic training for 2D-3D human pose lifting
 
-This is the original implementation of the Paper "Decanus to Legatus: Synthetic training for 2D-3D human pose lifting"
+This is the original implementation of the ACCV 2022 Paper "Decanus to Legatus: Synthetic training for 2D-3D human pose lifting"
 
 ## Required packages:
 
